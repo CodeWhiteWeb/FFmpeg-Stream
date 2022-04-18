@@ -5,7 +5,7 @@
   "stack": "container",
   "env": {
     "YOUTUBE_KEY": {
-      "description": "The YouTube live stream key to be used. Can be found in the YouTube UI",
+      "description": "fcch-pmz4-76ub-th41-2y88",
       "required": true
     }
   },
