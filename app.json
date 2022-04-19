@@ -1,7 +1,7 @@
 {
-  "name": "YouTube 24/7 live stream radio",
+  "name": "yt-24-7-stream-test-2",
   "description": "A sample live stream radio app",
-  "repository": "https://github.com/foxtacles/youtube-live-radio",
+  "repository": "https://github.com/CodeWhiteWeb/yt-24-7-stream-test-2",
   "stack": "container",
   "env": {
     "YOUTUBE_KEY": {
