@@ -5,7 +5,7 @@
   "stack": "container",
   "env": {
     "YOUTUBE_KEY": {
-      "description": "fcch-pmz4-76ub-th41-2y88",
+      "description": "yt stream key",
       "required": true
     }
   },
